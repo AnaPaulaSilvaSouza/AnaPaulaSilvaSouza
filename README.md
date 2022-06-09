@@ -1,10 +1,10 @@
 <h1 align="center">OI 👋, Eu sou Ana Paula</h1>
 
 
-- 🔭 Atualmente sou estudante de ** Sistema de Informações**
+- 🔭 Atualmente sou estudante de **Sistema de Informações**
 - 🌱 Aprendendo **Machine Learning e IA**
 - 👯 Procuro colaborar em **projetos de ciência de dados**
-- 📫Fale **paulamanjuste@gmail.com**
+- 📫 Contato **paulamanjuste@gmail.com**
 
 
 - Saiba mais comigo [https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183 /](https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183/)
