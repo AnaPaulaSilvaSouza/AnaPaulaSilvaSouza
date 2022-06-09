@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! :call_me_hand: </h1>
-<h3 align="center"> Graphic Designer :woman_student: | Student 📚| Data Scientist :game_die: </h3>
+<h3 align="center"> Graphic Designer :woman_student: | Student 📚 | Data Scientist 👨‍💻 </h3>
 <div>
 
 - 🔭 Atualmente sou estudante de **Sistema de Informações**
