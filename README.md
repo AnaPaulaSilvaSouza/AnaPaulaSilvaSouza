@@ -4,11 +4,11 @@
  
   <h3> 👩 About Me </h3>
 
-- 🔭 Currently student of **Information System**
+- 🔭 Student of **Information System**
 - 🌱 Exploring new **technologies**
 - 👯 Learning more about **Data Science & Machine Learning**.
-- 📫 Contato **paulamanjuste@gmail.com**
-- 👩‍💻 Saiba mais sobre mim [https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183 /](https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183/)
+- 📫 Contact **paulamanjuste@gmail.com**
+- 👩‍💻 More about me [https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183 /](https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183/)
 
 
 <details>
