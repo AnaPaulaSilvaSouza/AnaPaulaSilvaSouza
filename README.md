@@ -1,4 +1,4 @@
-
+![Learn Data Science (Capa para Facebook) (1640 × 500 px) (1)](https://user-images.githubusercontent.com/106822012/172889605-8b6472fd-db8a-4c81-9fb3-7eb071d2a8b0.png)
 
 <h1 align="center">Hi there! :call_me_hand: </h1>
 <h3 align="center"> Graphic Designer :woman_student: | Student 📚 | Data Scientist 👨‍💻 </h3>
