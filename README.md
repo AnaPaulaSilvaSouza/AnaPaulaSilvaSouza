@@ -4,9 +4,9 @@
  
   <h3> 👩 About Me </h3>
 
-- 🔭 Atualmente sou estudante de **Sistema de Informações**
-- 🌱 Aprendendo **Machine Learning e IA**
-- 👯 Procuro colaborar em **projetos de ciência de dados**
+- 🔭 Currently student of **Information System**
+- 🌱 Exploring new **technologies**
+- 👯 Learning more about **Data Science & Machine Learning**.
 - 📫 Contato **paulamanjuste@gmail.com**
 - 👩‍💻 Saiba mais sobre mim [https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183 /](https://www.linkedin.com/in/ana-paula-silva-souza-7915ab183/)
 
